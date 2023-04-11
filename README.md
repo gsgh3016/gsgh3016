@@ -18,7 +18,7 @@
 <hr>
 
 ## Now Studying
-###🤖 Deep Learning Framework Design
+### 🤖 Deep Learning Framework Design
 
 ### 🔊 Digital Audio Signal Processing
 
@@ -30,4 +30,4 @@
 
 ### 🎸 Musical Instrument Simulation
 
-### 🤖 Human-AI Interface for Music Performance
+### ⏩ Human-AI Interface for Music Performance
