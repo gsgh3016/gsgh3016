@@ -30,4 +30,4 @@ MIDI Develop
 
 Musical Instrument Simulation
 
-Human-AI interface for musical performance
+Human-AI Interface for Music Performance
