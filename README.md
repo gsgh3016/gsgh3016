@@ -19,10 +19,15 @@
 
 ## Now Studying
 Deep Learning Framework Design
+
 Digital Audio Signal Processing
+
 VST3 Plug-in Develop using JUCE Framework
 <hr>
 
 ## Interested Fields
 MIDI Develop
-Musical Instrument Simulation(Human-AI interface for musical performance)
+
+Musical Instrument Simulation
+
+Human-AI interface for musical performance
