@@ -20,7 +20,9 @@
 <hr>
 
 ## Framework
-<img src="https://github.com/gsgh3016/gsgh3016/assets/104420634/9c5473b4-177f-4cb2-9c7f-dac84b88446a" width="100" height="100">
+<img src="https://github.com/gsgh3016/gsgh3016/assets/104420634/9c5473b4-177f-4cb2-9c7f-dac84b88446a" width="20" height="20">
+![Pandas](https://img.shields.io/badge/Python-FF7300?style=for-the-badge&logo=pandas&logoColor=ffffff)
+![NumPy](https://img.shields.io/badge/Python-013243?style=for-the-badge&logo=numpy&logoColor=ffffff)
 <hr>
 
 ## Now Studying
