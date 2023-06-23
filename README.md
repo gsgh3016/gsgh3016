@@ -20,8 +20,7 @@
 <hr>
 
 ## Framework
-![JUCE](https://github.com/gsgh3016/gsgh3016/assets/104420634/9c5473b4-177f-4cb2-9c7f-dac84b88446a)
-()
+![JUCE](https://github.com/gsgh3016/gsgh3016/assets/104420634/9c5473b4-177f-4cb2-9c7f-dac84b88446a){: width="100" height="100"}
 <hr>
 
 ## Now Studying
