@@ -22,6 +22,9 @@
 <img src="https://github.com/gsgh3016/gsgh3016/assets/104420634/9c5473b4-177f-4cb2-9c7f-dac84b88446a" width="20" height="20"><br>
 ![Pandas](https://img.shields.io/badge/Pandas-FF7300?style=for-the-badge&logo=pandas&logoColor=ffffff)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Node.js]((https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <hr>
 
 ## Now Studying
@@ -30,6 +33,10 @@
 ### 🔊 Digital Audio Signal Processing
 
 ### 🎧 VST3 Plug-in Develop using JUCE Framework
+
+### 🌐 Back-end Development
+
+### 🌐 React.js and Server-side rendering
 <hr>
 
 ## Interested Fields
@@ -38,3 +45,5 @@
 ### 🎸 Musical Instrument Simulation
 
 ### ⏩ Human-AI Interface for Music Performance
+
+### 🌐 Web Development for marketing and business
