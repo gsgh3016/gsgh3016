@@ -1,8 +1,8 @@
 # 🤵 Gamchan Kang
 <hr>
 
-### 🏘️ Pusan, South Korea
-### 🏫 Pusan National University (PNU)
+### 🏘️ Seoul, South Korea
+### 🏫 Pusan National University(PNU): Bachelor's Degree, 2017.03 ~ 2024.02
 ### 🏫 Major: Electronic Engineering, Minor: Computer Science
 ### 🔗 <a href="https://linktr.ee/kanggamchan" target="_blank"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=ffffff"/></a>
 <hr>
