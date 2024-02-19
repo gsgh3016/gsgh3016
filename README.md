@@ -1,55 +1,75 @@
 # 🤵 Hi! Welcome to Kang Gamchan's Github
 <hr>
 
-### 🏘️ Seoul, South Korea
+### 🏘️ Now living in Seoul, South Korea
 ### 🏫 Pusan National University(PNU)
 - Bachelor's Degree
 - 2017.03 ~ 2024.02
 - Major: Electronic Engineering
 - Minor: Computer Science
 - Grade: 3.8/4.5
-### 🔗 Personal link: <a href="https://linktr.ee/kanggamchan" target="_blank"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=ffffff"/></a>
+### 🔗 Personal link <a href="https://linktr.ee/kanggamchan" target="_blank"><img src="https://img.shields.io/badge/Linktree-43E55E"/></a>
 <hr>
 
+## 🗣️ About Me
+- **Enthusiasm, Challenge-enjoy, Insight, Readership**
+- Preper to **redefine** the problem, not just solving.
+- Interested in **Deap Learning**, especially in **music**.
+- Enjoy to learning **deeper and newer**.
+- Also passionate and creative **guitarist in [band 4.5F](https://www.instagram.com/band_4.5f?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)** since 2018.
+
+## 🏆 Awards & Program
+- 2017.03 ~ 2018.09 부산대학교 중앙동아리 우든키드 기장
+- 2018.04 ~ 밴드 4.5층 리더, 기타, 작곡, 작사 참여
+- 2020.03 EP 앨범 잔불 발매
+- 2021.01 ~ 2022.01 부산대학교 중앙동아리 우든키드 부회장
+- 2022.10 정규 1집 ConcreteDESERT 발매
+- 2023.06 환경부 주관 환경데이터 활용 공모전 최우수상
+- 2023.07 문화체육관광부 주관 문화데이터 활용 공모전
+- 2023.07 ~ 2024.02 부산대학교 창업 소모임 성장사 3기
+- 2023.07 ~ 2024.01 부산대학교 과동아리 AID 운영진
+- 2023.09 ~ 2023.12 부산대학교 SW 융합교육원 주관 백엔드 미니 부트캠프 수료
+
+## 🧑‍💻 Language
+![Python](https://img.shields.io/badge/python-3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
+![C](https://img.shields.io/badge/C-A8B9CC)
+![C++](https://img.shields.io/badge/C++-00599C)
+![HTML5](https://img.shields.io/badge/html5-E34F26)
+![CSS3](https://img.shields.io/badge/css3-1572B6)
+![Java](https://img.shields.io/badge/Java-007396)
+
+<hr>
+
+## 🛠️ Framework
+
+### 📚 Now Studying
+![Juce](https://img.shields.io/badge/Juce-%238DC63F)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00)
+
+### 🏃 Frequently Using
+![Pandas](https://img.shields.io/badge/Pandas-FF7300)
+![NumPy](https://img.shields.io/badge/NumPy-013243)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5)
+
+### 🐢 Rarely Using
+![Node.js](https://img.shields.io/badge/node.js-%236DA55F)
+![React.js](https://img.shields.io/badge/React-%2361DAFB)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F)
+
+<hr>
+
+## 🧐 Interested Fields
+
+- 🤖 Deep Learning Framework Design
+- 🔊 Digital Audio Signal Processing
+- 🎧 VST3 Plug-in Develop using JUCE Framework
+- 🎹 MIDI Development
+- 🎸 Musical Instrument Simulation
+- 🌐 Data Analysis for marketing and business
+
+---
+
+## 📊 Activity in Github
 ![Gamchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsgh3016&show_icons=true&theme=radical)
-
-## Language
-<img src="https://img.shields.io/badge/python-3776AB">
-![python](https://img.shields.io/badge/Python-?style=for-the-badge&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
-![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white)
-<hr>
-
-## Framework
-<img src="https://github.com/gsgh3016/gsgh3016/assets/104420634/9c5473b4-177f-4cb2-9c7f-dac84b88446a" width="20" height="20"><br>
-![Pandas](https://img.shields.io/badge/Pandas-FF7300?style=for-the-badge&logo=pandas&logoColor=ffffff)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-<hr>
-
-## Now Studying
-### 🤖 Deep Learning Framework Design
-
-### 🔊 Digital Audio Signal Processing
-
-### 🎧 VST3 Plug-in Develop using JUCE Framework
-
-### 🌐 Back-end Development
-
-### 🌐 React.js and Server-side rendering
-<hr>
-
-## Interested Fields
-### 🎹 MIDI Develop
-
-### 🎸 Musical Instrument Simulation
-
-### ⏩ Human-AI Interface for Music Performance
-
-### 🌐 Web Development for marketing and business
