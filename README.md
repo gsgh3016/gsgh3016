@@ -14,7 +14,8 @@
 ![Gamchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsgh3016&show_icons=true&theme=radical)
 
 ## Language
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+<https://img.shields.io/badge/python-3776AB>
+![python](https://img.shields.io/badge/Python-?style=for-the-badge&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
