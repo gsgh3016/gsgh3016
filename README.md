@@ -1,10 +1,14 @@
-# 🤵 Gamchan Kang
+# 🤵 Hi! Welcome to Kang Gamchan's Github
 <hr>
 
 ### 🏘️ Seoul, South Korea
-### 🏫 Pusan National University(PNU): Bachelor's Degree, 2017.03 ~ 2024.02
-### 🏫 Major: Electronic Engineering, Minor: Computer Science
-### 🔗 <a href="https://linktr.ee/kanggamchan" target="_blank"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=ffffff"/></a>
+### 🏫 Pusan National University(PNU)
+- Bachelor's Degree
+- 2017.03 ~ 2024.02
+- Major: Electronic Engineering
+- Minor: Computer Science
+- Grade: 3.8/4.5
+### 🔗 Personal link: <a href="https://linktr.ee/kanggamchan" target="_blank"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=ffffff"/></a>
 <hr>
 
 ![Gamchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsgh3016&show_icons=true&theme=radical)
@@ -16,7 +20,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
 ![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
-<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/>
+![Java](https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white)
 <hr>
 
 ## Framework
