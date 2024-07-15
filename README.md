@@ -28,6 +28,8 @@
 - 2023.07 ~ 2024.02 부산대학교 창업 소모임 성장사 3기
 - 2023.07 ~ 2024.01 부산대학교 과동아리 AID 운영진
 - 2023.09 ~ 2023.12 부산대학교 SW 융합교육원 주관 백엔드 미니 부트캠프 수료
+- 2024.04 ~ 2024.06 네이버 부스트캠프 AI Tech 준비과정 수료
+- (예정)2024.08 ~ 네이버 부스트캠프 AI Tech 7기 NLP 트랙 
 
 ## 🧑‍💻 Language
 ![Python](https://img.shields.io/badge/python-3776AB)
@@ -37,10 +39,11 @@
 ![HTML5](https://img.shields.io/badge/html5-E34F26)
 ![CSS3](https://img.shields.io/badge/css3-1572B6)
 ![Java](https://img.shields.io/badge/Java-007396)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1)
 
 <hr>
 
-## 🛠️ Framework
+## 🛠️ Tools
 
 ### 📚 Now Studying
 ![Juce](https://img.shields.io/badge/Juce-%238DC63F)
@@ -51,6 +54,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5)
+![Librosa](https://img.shields.io/badge/Librosa-%23632CA6)
 
 ### 🐢 Rarely Using
 ![Node.js](https://img.shields.io/badge/node.js-%236DA55F)
@@ -62,11 +66,10 @@
 ## 🧐 Interested Fields
 
 - 🤖 Deep Learning Framework Design
+- 📚 NLP, Text Mining
+- 🗣️ Multi-Modal DL/ML
+- 💬 Speech Analysis & Speech Related Model(STT, TTS)
 - 🔊 Digital Audio Signal Processing
-- 🎧 VST3 Plug-in Develop using JUCE Framework
-- 🎹 MIDI Development
-- 🎸 Musical Instrument Simulation
-- 🌐 Data Analysis for marketing and business
 
 ---
 
