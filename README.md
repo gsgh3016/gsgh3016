@@ -46,17 +46,17 @@
 ## 🛠️ Tools
 
 ### 📚 Now Studying
-![Juce](https://img.shields.io/badge/Juce-%238DC63F)
+![MLflow](https://img.shields.io/badge/MLflow-%231080DB)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23419285)
 
 ### 🏃 Frequently Using
-![Pandas](https://img.shields.io/badge/Pandas-FF7300)
-![NumPy](https://img.shields.io/badge/NumPy-013243)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5)
 ![Librosa](https://img.shields.io/badge/Librosa-%23632CA6)
 
 ### 🐢 Rarely Using
+![Juce](https://img.shields.io/badge/Juce-%238DC63F)
 ![Node.js](https://img.shields.io/badge/node.js-%236DA55F)
 ![React.js](https://img.shields.io/badge/React-%2361DAFB)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F)
