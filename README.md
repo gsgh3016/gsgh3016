@@ -12,9 +12,9 @@
 <hr>
 
 ## 🗣️ About Me
-- **Enthusiasm, Challenge-enjoy, Insight, Readership**
+- **Enthusiasm, Challenge-enjoy, Insight, Leadership**
 - Preper to **redefine** the problem, not just solving.
-- Interested in **Deap Learning**, especially in **music**.
+- Interested in **Deep Learning**, especially in **music**.
 - Enjoy to learning **deeper and newer**.
 - Also passionate and creative **guitarist in [band 4.5F](https://www.instagram.com/band_4.5f?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)** since 2018.
 
