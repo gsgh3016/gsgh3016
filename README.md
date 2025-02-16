@@ -19,17 +19,17 @@
 - Also passionate and creative **guitarist in [band 4.5F](https://www.instagram.com/band_4.5f?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)** since 2018.
 
 ## 🏆 Awards & Program
-- 2017.03 ~ 2018.09 부산대학교 중앙동아리 우든키드 기장
-- 2018.04 ~ 밴드 4.5층 리더, 기타, 작곡, 작사 참여
-- 2020.03 EP 앨범 잔불 발매
-- 2021.01 ~ 2022.01 부산대학교 중앙동아리 우든키드 부회장
-- 2022.10 정규 1집 ConcreteDESERT 발매
-- 2023.06 환경부 주관 환경데이터 활용 공모전 최우수상
-- 2023.07 ~ 2024.02 부산대학교 창업 소모임 성장사 3기
-- 2023.07 ~ 2024.01 부산대학교 과동아리 AID 운영진
-- 2023.09 ~ 2023.12 부산대학교 SW 융합교육원 주관 백엔드 미니 부트캠프 수료
+- 2024.08 ~ 2025.02 네이버 부스트캠프 AI Tech 7기 NLP 트랙 
 - 2024.04 ~ 2024.06 네이버 부스트캠프 AI Tech 준비과정 수료
-- 2024.08 ~ 네이버 부스트캠프 AI Tech 7기 NLP 트랙 
+- 2023.09 ~ 2023.12 부산대학교 SW 융합교육원 주관 백엔드 미니 부트캠프 수료
+- 2023.07 ~ 2024.01 부산대학교 과동아리 AID 운영진
+- 2023.07 ~ 2024.02 부산대학교 창업 소모임 성장사 3기
+- 2023.06 환경부 주관 환경데이터 활용 공모전 최우수상
+- 2022.10 정규 1집 ConcreteDESERT 발매
+- 2021.01 ~ 2022.01 부산대학교 중앙동아리 우든키드 부회장
+- 2020.03 EP 앨범 잔불 발매
+- 2018.04 ~ 밴드 4.5층 리더, 기타, 작곡, 작사 참여
+- 2017.03 ~ 2018.09 부산대학교 중앙동아리 우든키드 기장
 
 ## 🧑‍💻 Language
 ![Python](https://img.shields.io/badge/python-3776AB)
@@ -49,6 +49,7 @@
 ![MLflow](https://img.shields.io/badge/MLflow-%231080DB)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23419285)
+![React.js](https://img.shields.io/badge/React-%2361DAFB)
 
 ### 🏃 Frequently Using
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C)
@@ -58,17 +59,15 @@
 ### 🐢 Rarely Using
 ![Juce](https://img.shields.io/badge/Juce-%238DC63F)
 ![Node.js](https://img.shields.io/badge/node.js-%236DA55F)
-![React.js](https://img.shields.io/badge/React-%2361DAFB)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F)
 
 <hr>
 
 ## 🧐 Interested Fields
 
-- 🤖 Deep Learning Framework Design
 - 📚 NLP, Text Mining
+- 🤖 AI Agent
 - 🗣️ Multi-Modal DL/ML
-- 💬 Speech Analysis & Speech Related Model(STT, TTS)
 - 🔊 Digital Audio Signal Processing
 
 ---
